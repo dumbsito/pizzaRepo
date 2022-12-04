@@ -1,0 +1,49 @@
+.contenedor{
+  height: 500px;
+    img{
+        width: 100%;
+        border-top-left-radius: 5px;
+        border-top-right-radius: 5px;
+    }
+}
+.card{
+    width: 360px;
+    height: 496px;
+    border: 1px solid black;
+    margin: 60px 0 0 100px;
+     border-radius: 5px;
+    h5{
+    width: 100%;
+    padding: 20px;
+    padding-left: 10px;
+    border: 1px solid black;
+    font-family:'Mabry pro', sans-serif;
+    }
+
+    h4{
+      border: 1px solid black;
+      margin-top: -8px;
+      height: 70px;
+      width: 75%;
+      padding: 20px;
+    border-bottom-left-radius: 5px;
+
+    }
+    .price{
+        border: 1px solid black;
+        margin-top: -8px;
+        height: 100%;
+        width: 110px;
+        padding: 10px;
+        border-bottom-right-radius: 5px;
+    }
+}
+nav{
+    padding: 30px;
+    border-bottom: 1px solid black;
+    h1{
+        font-size: 40px;
+        font-weight:bold ;
+        margin-left: 40px;
+    }
+}
